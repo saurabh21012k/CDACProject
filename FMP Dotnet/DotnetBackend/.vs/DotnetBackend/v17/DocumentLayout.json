@@ -1,0 +1,614 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\dao\\admindaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\dao\\admindaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\models\\farmfreshcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\models\\farmfreshcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\models\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\models\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\models\\idbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\models\\idbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\repository\\istockdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\repository\\istockdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\repository\\stockdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\repository\\stockdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\models\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\models\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\entitymapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\entitymapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\controllers\\farmercontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\controllers\\farmercontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\services\\adminserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\services\\adminserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\dao\\iadmindao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\dao\\iadmindao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\dao\\farmersdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\dao\\farmersdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\models\\stockdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\models\\stockdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\models\\stockdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\models\\stockdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\models\\farmerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\models\\farmerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\services\\userserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\services\\userserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\dao\\userdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\dao\\userdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\models\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\models\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\models\\categorystockdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\models\\categorystockdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\models\\categorystockdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\models\\categorystockdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\models\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\models\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|c:\\users\\acer\\source\\repos\\dotnetbackend\\dotnetbackend\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E0C92-D27F-4889-A9AD-DE54A98953EB}|DotnetBackend\\DotnetBackend.csproj|solutionrelative:dotnetbackend\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\DbContextFactory.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Models\\DbContextFactory.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\DbContextFactory.cs",
+              "RelativeToolTip": "DotnetBackend\\Models\\DbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T16:59:15.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FarmFreshContext.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\FarmFreshContext.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Models\\FarmFreshContext.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\FarmFreshContext.cs",
+              "RelativeToolTip": "DotnetBackend\\Models\\FarmFreshContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T09:01:35.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Farmer.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\Farmer.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Models\\Farmer.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\Farmer.cs",
+              "RelativeToolTip": "DotnetBackend\\Models\\Farmer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T05:12:39.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Program.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Program.cs",
+              "RelativeToolTip": "DotnetBackend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T06:12:00.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminDaoImpl.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Dao\\AdminDaoImpl.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Dao\\AdminDaoImpl.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Dao\\AdminDaoImpl.cs",
+              "RelativeToolTip": "DotnetBackend\\Dao\\AdminDaoImpl.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwPIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T05:48:01.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\IDbContextFactory.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Models\\IDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\IDbContextFactory.cs",
+              "RelativeToolTip": "DotnetBackend\\Models\\IDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T16:58:41.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DotnetBackend\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\appsettings.Development.json",
+              "RelativeToolTip": "DotnetBackend\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-03T07:27:58.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "DotnetBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\appsettings.json",
+              "RelativeToolTip": "DotnetBackend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-03T07:27:07.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStockDetailsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Repository\\IStockDetailsRepository.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Repository\\IStockDetailsRepository.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Repository\\IStockDetailsRepository.cs",
+              "RelativeToolTip": "DotnetBackend\\Repository\\IStockDetailsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T09:00:20.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\EntityMapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\EntityMapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\EntityMapping\\MappingProfile.cs",
+              "RelativeToolTip": "DotnetBackend\\EntityMapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T16:51:44.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\Category.cs",
+              "RelativeToolTip": "DotnetBackend\\Models\\Category.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:50:14.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Models\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\CategoryDTO.cs",
+              "RelativeToolTip": "DotnetBackend\\Models\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:52:40.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StockDetailsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Repository\\StockDetailsRepository.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Repository\\StockDetailsRepository.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Repository\\StockDetailsRepository.cs",
+              "RelativeToolTip": "DotnetBackend\\Repository\\StockDetailsRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T06:02:09.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FarmerContoller.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Controllers\\FarmerContoller.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Controllers\\FarmerContoller.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Controllers\\FarmerContoller.cs",
+              "RelativeToolTip": "DotnetBackend\\Controllers\\FarmerContoller.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwBAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T17:30:33.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "DotnetBackend\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAiwLUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T05:33:34.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAdminDao.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Dao\\IAdminDao.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Dao\\IAdminDao.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Dao\\IAdminDao.cs",
+              "RelativeToolTip": "DotnetBackend\\Dao\\IAdminDao.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswBoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T21:07:44.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Services\\AdminServiceImpl.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Services\\AdminServiceImpl.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Services\\AdminServiceImpl.cs",
+              "RelativeToolTip": "DotnetBackend\\Services\\AdminServiceImpl.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAkwJUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T05:33:15.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Services\\IAdminService.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Services\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Services\\IAdminService.cs",
+              "RelativeToolTip": "DotnetBackend\\Services\\IAdminService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T12:02:34.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FarmersDaoImpl.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Dao\\FarmersDaoImpl.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Dao\\FarmersDaoImpl.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Dao\\FarmersDaoImpl.cs",
+              "RelativeToolTip": "DotnetBackend\\Dao\\FarmersDaoImpl.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowEoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:59:45.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StockDetail.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\StockDetail.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Models\\StockDetail.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\StockDetail.cs",
+              "RelativeToolTip": "DotnetBackend\\Models\\StockDetail.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:25:11.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StockDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\StockDetailDTO.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Models\\StockDetailDTO.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\StockDetailDTO.cs",
+              "RelativeToolTip": "DotnetBackend\\Models\\StockDetailDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T14:10:07.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FarmerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\FarmerDTO.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Models\\FarmerDTO.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\FarmerDTO.cs",
+              "RelativeToolTip": "DotnetBackend\\Models\\FarmerDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T14:04:46.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "DotnetBackend\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAgwDcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T06:58:59.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Services\\UserServiceImpl.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Services\\UserServiceImpl.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Services\\UserServiceImpl.cs",
+              "RelativeToolTip": "DotnetBackend\\Services\\UserServiceImpl.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T21:05:38.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Services\\IUserService.cs",
+              "RelativeToolTip": "DotnetBackend\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T21:07:09.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\User.cs",
+              "RelativeToolTip": "DotnetBackend\\Models\\User.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA5wAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T05:09:44.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserDaoImpl.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Dao\\UserDaoImpl.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Dao\\UserDaoImpl.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Dao\\UserDaoImpl.cs",
+              "RelativeToolTip": "DotnetBackend\\Dao\\UserDaoImpl.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T18:48:35.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Models\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\OrderDTO.cs",
+              "RelativeToolTip": "DotnetBackend\\Models\\OrderDTO.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T14:03:29.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\OrderDetailDTO.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Models\\OrderDetailDTO.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\OrderDetailDTO.cs",
+              "RelativeToolTip": "DotnetBackend\\Models\\OrderDetailDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T14:07:14.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "DotnetBackend\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T14:06:26.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\Order.cs",
+              "RelativeToolTip": "DotnetBackend\\Models\\Order.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T14:02:41.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoryStockDetail.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\CategoryStockDetail.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Models\\CategoryStockDetail.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\CategoryStockDetail.cs",
+              "RelativeToolTip": "DotnetBackend\\Models\\CategoryStockDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T15:12:24.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoryStockDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\CategoryStockDetailDTO.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Models\\CategoryStockDetailDTO.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\CategoryStockDetailDTO.cs",
+              "RelativeToolTip": "DotnetBackend\\Models\\CategoryStockDetailDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T15:13:09.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\Cart.cs",
+              "RelativeToolTip": "DotnetBackend\\Models\\Cart.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T19:29:15.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\Authentication.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Models\\Authentication.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\Authentication.cs",
+              "RelativeToolTip": "DotnetBackend\\Models\\Authentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:40:25.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "DotnetBackend\\Models\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:40:10.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DotnetBackend\\Models\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DotnetBackend\\DotnetBackend\\Models\\UserDTO.cs",
+              "RelativeToolTip": "DotnetBackend\\Models\\UserDTO.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T13:59:44.891Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
